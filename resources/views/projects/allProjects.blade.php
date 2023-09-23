@@ -6,7 +6,7 @@
         <tr>
             <th>ID</th>
             <th>Name</th>
-            <th>Actions</th> <!-- Add an actions column -->
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
